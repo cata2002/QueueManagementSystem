@@ -1,0 +1,43 @@
+Time = 1
+Tasks in queue: [(1,2,3), (3,2,3), (2,3,3), (4,3,3), (5,3,2), (6,3,2)]
+Queue 1: 
+Queue 2: 
+
+Time = 2
+Tasks in queue: [(2,3,3), (4,3,3), (5,3,2), (6,3,2)]
+Queue 1: (1,2,3) 
+Queue 2: (3,2,3) 
+
+Time = 3
+Tasks in queue: []
+Queue 1: (1,2,2) (2,3,3) (5,3,2) 
+Queue 2: (3,2,2) (4,3,3) (6,3,2) 
+
+Time = 4
+Tasks in queue: []
+Queue 1: (1,2,1) (2,3,3) (5,3,2) 
+Queue 2: (3,2,1) (4,3,3) (6,3,2) 
+
+Time = 5
+Tasks in queue: []
+Queue 1: (2,3,3) (5,3,2) 
+Queue 2: (4,3,3) (6,3,2) 
+
+Time = 6
+Tasks in queue: []
+Queue 1: (2,3,2) (5,3,2) 
+Queue 2: (4,3,2) (6,3,2) 
+
+Time = 7
+Tasks in queue: []
+Queue 1: (2,3,1) (5,3,2) 
+Queue 2: (4,3,1) (6,3,2) 
+
+Time = 8
+Tasks in queue: []
+Queue 1: (5,3,2) 
+Queue 2: (6,3,2) 
+
+Peak hour: 3
+Average service time: 2.67
+ Average waiting time: 5

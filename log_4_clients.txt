@@ -1,0 +1,303 @@
+Time = 1
+Tasks in queue: [(3,3,3), (2,8,3), (4,9,3), (1,19,3)]
+Queue 1: 
+Queue 2: 
+
+Time = 2
+Tasks in queue: [(3,3,3), (2,8,3), (4,9,3), (1,19,3)]
+Queue 1: 
+Queue 2: 
+
+Time = 3
+Tasks in queue: [(2,8,3), (4,9,3), (1,19,3)]
+Queue 1: (3,3,3) 
+Queue 2: 
+
+Time = 4
+Tasks in queue: [(2,8,3), (4,9,3), (1,19,3)]
+Queue 1: (3,3,2) 
+Queue 2: 
+
+Time = 5
+Tasks in queue: [(2,8,3), (4,9,3), (1,19,3)]
+Queue 1: (3,3,1) 
+Queue 2: 
+
+Time = 6
+Tasks in queue: [(2,8,3), (4,9,3), (1,19,3)]
+Queue 1: 
+Queue 2: 
+
+Time = 7
+Tasks in queue: [(2,8,3), (4,9,3), (1,19,3)]
+Queue 1: 
+Queue 2: 
+
+Time = 8
+Tasks in queue: [(4,9,3), (1,19,3)]
+Queue 1: (2,8,3) 
+Queue 2: 
+
+Time = 9
+Tasks in queue: [(1,19,3)]
+Queue 1: (2,8,2) 
+Queue 2: (4,9,3) 
+
+Time = 10
+Tasks in queue: [(1,19,3)]
+Queue 1: (2,8,1) 
+Queue 2: (4,9,2) 
+
+Time = 11
+Tasks in queue: [(1,19,3)]
+Queue 1: 
+Queue 2: (4,9,1) 
+
+Time = 12
+Tasks in queue: [(1,19,3)]
+Queue 1: 
+Queue 2: 
+
+Time = 13
+Tasks in queue: [(1,19,3)]
+Queue 1: 
+Queue 2: 
+
+Time = 14
+Tasks in queue: [(1,19,3)]
+Queue 1: 
+Queue 2: 
+
+Time = 15
+Tasks in queue: [(1,19,3)]
+Queue 1: 
+Queue 2: 
+
+Time = 16
+Tasks in queue: [(1,19,3)]
+Queue 1: 
+Queue 2: 
+
+Time = 17
+Tasks in queue: [(1,19,3)]
+Queue 1: 
+Queue 2: 
+
+Time = 18
+Tasks in queue: [(1,19,3)]
+Queue 1: 
+Queue 2: 
+
+Time = 19
+Tasks in queue: []
+Queue 1: (1,19,3) 
+Queue 2: 
+
+Time = 20
+Tasks in queue: []
+Queue 1: (1,19,2) 
+Queue 2: 
+
+Time = 21
+Tasks in queue: []
+Queue 1: (1,19,1) 
+Queue 2: 
+
+Time = 22
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 23
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 24
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 25
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 26
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 27
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 28
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 29
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 30
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 31
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 32
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 33
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 34
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 35
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 36
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 37
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 38
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 39
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 40
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 41
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 42
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 43
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 44
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 45
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 46
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 47
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 48
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 49
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 50
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 51
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 52
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 53
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 54
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 55
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 56
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 57
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 58
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 59
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Time = 60
+Tasks in queue: []
+Queue 1: 
+Queue 2: 
+
+Peak hour: 9
+Average service time: 3
+ Average waiting time: 2
